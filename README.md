@@ -1,0 +1,2 @@
+# EldritchBot
+evil incomprehensible bot
